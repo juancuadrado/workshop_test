@@ -1,5 +1,5 @@
 import requests
-import keystone
+import API.keystone as keystone
 
 def list_flavors():
     nova_port = '8774/v2.1'

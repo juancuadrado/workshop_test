@@ -1,8 +1,8 @@
 from flask import Flask 
 from flask import request
-import glance 
-import nova
-import neutron
+import API.glance as glance
+import API.nova as nova
+import API.neutron as neutron
 
 
 app = Flask('Workshop Test')
