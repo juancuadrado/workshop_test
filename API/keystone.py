@@ -14,11 +14,11 @@ def login():
                 ],
                 "password": {
                     "user": {
-                        "name": "workshop2022@utb.edu.co",
+                        "name": "useremail",
                         "domain": {
                             "name": "Default"
                      },
-                      "password": "XXXXXXX"
+                      "password": "password"
                  }
                 }
             }
