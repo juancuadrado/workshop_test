@@ -18,7 +18,7 @@ def login():
                         "domain": {
                             "name": "Default"
                      },
-                      "password": "ILOVECLOUD2022"
+                      "password": "XXXXXXX"
                  }
                 }
             }
